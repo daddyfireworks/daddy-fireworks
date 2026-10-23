@@ -1,8 +1,8 @@
-# Daddy Fireworks — Web Ordering Portal
+# Daddy Fireworks V2
 
-Web application for **Daddy Fireworks (Kalher)** enabling customers to select items, submit delivery details, complete payments via staff UPI QR code, and send formatted order receipts directly to staff via WhatsApp.
+Mobile-first catalogue and festival-list website.
 
-## Quick Start
-1. Create a repository on GitHub named `daddy-fireworks`.
-2. Upload `index.html`, `style.css`, and `app.js`.
-3. Enable **GitHub Pages** from Repository Settings > Pages.
+## Quick edits
+Open `index.html` in GitHub and search for the product name or contact number you want to change.
+
+The site stores each visitor’s My Diwali List in their own browser using localStorage.
